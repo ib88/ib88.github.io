@@ -7,7 +7,9 @@ sidebar_position: 2
 
 Before You are able to use SimplyCSV, you need to first create an account.
 Follow the following steps to register:
-- Navigate to the official SimplyCSV URL: <a href="app.simplycsv.com" target="_top">click here</a>
+- Navigate to the official SimplyCSV URL: www.app.simplycsv.com
+<!-- - Navigate to the official SimplyCSV URL: <a href="www.app.simplycsv.com" target="_top">click here</a> -->
+
 
 ![MarineGEO circle logo](/img/register.jpeg "register")
 
