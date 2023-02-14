@@ -1,0 +1,27 @@
+{
+  "unversionedId": "CSV Files copy/validate file",
+  "id": "CSV Files copy/validate file",
+  "title": "Validate file",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs/CSV Files copy/validate file.md",
+  "sourceDirName": "CSV Files copy",
+  "slug": "/CSV Files copy/validate file",
+  "permalink": "/docs/CSV Files copy/validate file",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/CSV Files copy/validate file.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Download files",
+    "permalink": "/docs/CSV Files copy/Download files"
+  },
+  "next": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  }
+}

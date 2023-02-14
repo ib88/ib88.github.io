@@ -1,0 +1,27 @@
+{
+  "unversionedId": "CSV Files/edit",
+  "id": "CSV Files/edit",
+  "title": "Edit a template!",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs/CSV Files/edit.md",
+  "sourceDirName": "CSV Files",
+  "slug": "/CSV Files/edit",
+  "permalink": "/docs/CSV Files/edit",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/CSV Files/edit.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delete a template!",
+    "permalink": "/docs/CSV Files/delete"
+  },
+  "next": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/intro"
+  }
+}

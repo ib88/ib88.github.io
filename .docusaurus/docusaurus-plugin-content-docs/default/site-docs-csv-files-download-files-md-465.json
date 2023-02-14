@@ -1,0 +1,27 @@
+{
+  "unversionedId": "CSV Files/Download files",
+  "id": "CSV Files/Download files",
+  "title": "Download files",
+  "description": "",
+  "source": "@site/docs/CSV Files/Download files.md",
+  "sourceDirName": "CSV Files",
+  "slug": "/CSV Files/Download files",
+  "permalink": "/docs/CSV Files/Download files",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/CSV Files/Download files.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manually enter data",
+    "permalink": "/docs/CSV Files/Manually enter data"
+  },
+  "next": {
+    "title": "Validate file",
+    "permalink": "/docs/CSV Files/validate file"
+  }
+}

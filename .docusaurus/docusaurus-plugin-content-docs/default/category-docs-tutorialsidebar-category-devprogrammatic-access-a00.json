@@ -1,0 +1,16 @@
+{
+  "title": "Dev/Programmatic access",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/devprogrammatic-access",
+  "permalink": "/docs/category/devprogrammatic-access",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Upload a file",
+      "permalink": "/docs/Dev/Programmatic access/Upload files"
+    }
+  }
+}

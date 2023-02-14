@@ -1,0 +1,16 @@
+{
+  "title": "CSV Files",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/csv-files-1",
+  "permalink": "/docs/category/csv-files-1",
+  "navigation": {
+    "previous": {
+      "title": "Validate file",
+      "permalink": "/docs/CSV Files/validate file"
+    },
+    "next": {
+      "title": "Upload a file",
+      "permalink": "/docs/CSV Files copy/Upload files"
+    }
+  }
+}
