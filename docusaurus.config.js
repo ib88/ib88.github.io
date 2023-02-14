@@ -6,9 +6,9 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'SimplyCSV',
+  tagline: 'SimplyCSV - CSV handling made simple',
+  favicon: 'img/favicon-simplycsv.ico',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-test-site.com',
@@ -66,8 +66,8 @@ const config = {
       navbar: {
         title: 'SimplyCSV',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'SimplyCSV Logo',
+          src: 'img/simplycsv-login-logo.gif',
         },
         items: [
           {
