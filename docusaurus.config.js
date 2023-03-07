@@ -20,7 +20,7 @@ const config = {
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'ib88', // Usually your GitHub org/user name.
   projectName: 'ib88.github.io', // Usually your repo name.
-  deploymentBranch: 'deployDownloadFile',
+  deploymentBranch: 'master',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
