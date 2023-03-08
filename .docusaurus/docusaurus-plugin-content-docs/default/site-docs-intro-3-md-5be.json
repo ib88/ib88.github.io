@@ -1,0 +1,27 @@
+{
+  "unversionedId": "intro3",
+  "id": "intro3",
+  "title": "How to register an account?",
+  "description": "Before You are able to use SimplyCSV, you need to first create an account.",
+  "source": "@site/docs/intro3.md",
+  "sourceDirName": ".",
+  "slug": "/intro3",
+  "permalink": "/docs/intro3",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro3.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Templates",
+    "permalink": "/docs/category/templates"
+  }
+}

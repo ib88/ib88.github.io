@@ -1,0 +1,16 @@
+{
+  "title": "Templates",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/templates",
+  "permalink": "/docs/category/templates",
+  "navigation": {
+    "previous": {
+      "title": "How to register an account?",
+      "permalink": "/docs/intro3"
+    },
+    "next": {
+      "title": "Create a template",
+      "permalink": "/docs/Templates/create"
+    }
+  }
+}
