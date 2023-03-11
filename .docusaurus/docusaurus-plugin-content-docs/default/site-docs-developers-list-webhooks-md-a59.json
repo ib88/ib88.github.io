@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Developers/list-webhooks",
+  "id": "Developers/list-webhooks",
+  "title": "List Webhooks",
+  "description": "In this page, we use API calls to retrieve webhooks attached to a specific template.",
+  "source": "@site/docs/Developers/list-webhooks.md",
+  "sourceDirName": "Developers",
+  "slug": "/Developers/list-webhooks",
+  "permalink": "/docs/Developers/list-webhooks",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Developers/list-webhooks.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Webhook",
+    "permalink": "/docs/Developers/webhooks"
+  },
+  "next": {
+    "title": "Upload a File programmatically",
+    "permalink": "/docs/Developers/upload-file"
+  }
+}

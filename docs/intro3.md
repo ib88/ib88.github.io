@@ -5,7 +5,7 @@ sidebar_position: 2
 # How to register an account?
 
 
-Before You are able to use SimplyCSV, you need to first create an account.
+Before You are able to use SimplyCSV, you need to first create an account. Only registered users will have full access to all our features.
 Follow the following steps to register:
 - Navigate to the official SimplyCSV URL: www.app.simplycsv.com
 <!-- - Navigate to the official SimplyCSV URL: <a href="www.app.simplycsv.com" target="_top">click here</a> -->
