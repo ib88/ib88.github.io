@@ -282,7 +282,7 @@
     "intro": {
       "id": "intro",
       "title": "Introduction",
-      "description": "SimplyCSV is an intuitive tool that provides you with an intuitive way to deal with CSV files. Most of the times, users have to meddle with codes in order to do csv files operations. Our mission is to allow non programmers to be able to use an interface to handle csv files.",
+      "description": "SimplyCSV is an intuitive tool that provides you with an intuitive way to deal with CSV files. Most of the times, users have to write codes in order to do csv files operations. Our goal is to allow non programmers to be able to use an interface to handle csv files.",
       "sidebar": "tutorialSidebar"
     },
     "intro3": {
