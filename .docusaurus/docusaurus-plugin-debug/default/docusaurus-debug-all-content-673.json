@@ -478,7 +478,7 @@
               "unversionedId": "intro",
               "id": "intro",
               "title": "Introduction",
-              "description": "SimplyCSV is an intuitive tool that provides you with an intuitive way to deal with CSV files. Most of the times, users have to write codes in order to do csv files operations. Our goal is to allow non programmers to be able to use an interface to handle csv files.",
+              "description": "Welcome to SimplyCSV! We understand that uploading and managing CSV files can be a time-consuming and sometimes frustrating process. That's why we've created a simple and accessible solution that allows you to quickly and easily create templates and upload and download your files, all in one place.",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
@@ -699,7 +699,7 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "description": "Here, we cover how to upload files and manually enter data using the User Interface.",
                   "slug": "/category/csv-files",
                   "permalink": "/docs/category/csv-files"
                 }
@@ -765,7 +765,7 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "description": "In this section, we go show how to create templates, Webhooks and upload files programmatically.",
                   "slug": "/category/developers",
                   "permalink": "/docs/category/developers"
                 }

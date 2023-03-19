@@ -7,7 +7,7 @@ sidebar_position: 14
 Follow the following codes to delete a file that has been uploaded.
 - This is a function that takes a __$file__  object and destroys it using __$file->delete()__
 
-```
+```php
  public function destroy(File $file)
     {
         // authorize

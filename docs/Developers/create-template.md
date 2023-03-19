@@ -6,7 +6,7 @@ sidebar_position: 2
 
 The following codes create a template and saves it.
 The store function is where all the magic happens.
-```
+```php
 public function store(Request $request)
     {
         //

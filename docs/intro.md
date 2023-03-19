@@ -4,7 +4,14 @@ sidebar_position: 1
 
 #  Introduction
 
-__SimplyCSV__ is an intuitive tool that provides you with an intuitive way to deal with CSV files. Most of the times, users have to write codes in order to do csv files operations. Our goal is to allow non programmers to be able to use an interface to handle __csv__ files.
+Welcome to __SimplyCSV__! We understand that uploading and managing CSV files can be a time-consuming and sometimes frustrating process. That's why we've created a simple and accessible solution that allows you to quickly and easily create templates and upload and download your files, all in one place.
+
+With our user-friendly interface, you can create custom templates to ensure that your data is organized and formatted exactly how you want it. Simply select the columns you need, add custom headers and descriptions, and save it as a template for future use.
+
+When it comes time to upload your file, our platform accepts CSV files of any size and can handle a variety of formats. Once your data is uploaded, you can view and download it in a variety of file types, including CSV, Excel, and PDF, making it easy to share and analyze your data with colleagues, partners, or clients.
+
+Our goal is to simplify the data management process and make it easy and efficient for you to upload and manage your CSV files. So why not try our platform out for yourself and experience the benefits of streamlined data management?
+
 
 ## What is a CSV file?
 __CSV files__ are text files with information separated by commas, saved with the extension . csv. They allow large amounts of detailed data to be transferred 'machine-to-machine', with little or no reformatting by the user.
