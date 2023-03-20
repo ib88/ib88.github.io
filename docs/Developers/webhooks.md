@@ -4,9 +4,13 @@ sidebar_position: 10
 
 # Create a Webhook
 
- So what exactly is a webhook? By definition, a webhook (also called a web callback or HTTP push API) is a way for an app to provide other applications with real-time information. A webhook delivers data to other applications as it happens, meaning you get data immediately—unlike typical APIs where you would need to poll for data very frequently to get it in real time.
- You would create a template and get notified whenever a file is uploaded. That way, you can know when a file has been uploaded so that you can download it.
-In this page, we show you how to attach a Webhook to a template using Codes.
+ A webhook is a mechanism that allows an application to receive real-time notifications or data from another application, typically through HTTP requests. In the context of a CSV file uploading application, creating a webhook can be very useful for a number of reasons.
+
+First, a webhook can be used to notify other applications or services when a CSV file has been uploaded or updated. For example, if you have an application that processes data from CSV files, you could use a webhook to automatically trigger that application to run whenever a CSV file is uploaded.
+
+Second, a webhook can be used to integrate your CSV file uploading application with other applications or services, such as a data visualization tool or a third-party analytics service. By sending data to these tools or services through a webhook, you can streamline your data processing pipeline and avoid the need for manual data transfers.
+
+In this page, we show you how to attach a Webhook to a template using PHP Codes.
 
 This snippet of codes create a webhook.
 ```
