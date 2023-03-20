@@ -24,15 +24,14 @@ For instance, it may look like the following:
 ```
 
 ## Features
-We provide an intuitive and user friendly interface to get it going with CSV files.
 
 With SimplyCSV, You can:
-- Create CSV templates to validate your files
-- Delete templates
-- Upload files
-- Upload data 
-- Delete files
-- Attach __Webhooks__ to templates
+- __Template Creation__: The website allows users to create customizable templates for their CSV files. Users should be able to define the column names, data types, and data formats.
+- __File Upload__: The website should allow users to upload CSV files created using the templates they created, or their own customized CSV files.
+- __File Validation__: The website validates the CSV files uploaded by users to ensure that they meet the defined column names, data types and data formats.
+- __Data Preview__: The website allows users to preview the data in their CSV files before uploading or downloading them. 
+- __Notifications__: The website notifies users when their CSV data has been uploaded or modified, with automated emails or in-app notifications.
+- __Support__: The website provides easy-to-find support options, such as a help center, FAQ page, or live chat support, to help users with any issues they may face.
 
 ### Watch the video bellow for a quick walkthrough:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9lHy5XMT3q4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
