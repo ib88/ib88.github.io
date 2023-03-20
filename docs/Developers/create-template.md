@@ -4,8 +4,20 @@ sidebar_position: 2
 
 # Create a template programmatically
 
-The following codes create a template and saves it.
-The store function is where all the magic happens.
+Creating a template programmatically can be very important in various situations. Here are some key reasons why:
+
+1. Consistency: When you create a template programmatically, you ensure that all your documents have the same structure and formatting. This is critical, especially in organizations where branding and consistency are important.
+
+2. Time-saving: Creating templates programmatically can save you a lot of time, especially if you frequently create the same type of document. By creating a template, you can avoid repetitive formatting tasks and focus on the content creation.
+
+3. Customization: Programmatically created templates can be customized to meet specific needs. You can create a template that includes specific placeholders that automate document creation or allow for easy customization by the end-user.
+
+4. Increased productivity: Programmatically creating a template ensures that your team is using best practices and reduces the chances of errors. This can help increase overall productivity.
+
+5. Scalability: If you manage a large number of documents, creating templates programmatically can help scale your operations. You can create templates that can be used in a variety of scenarios, making it easy to create and maintain a large collection of documents.
+
+The following codes creates and saves a template using PHP:
+
 ```php
 public function store(Request $request)
     {
