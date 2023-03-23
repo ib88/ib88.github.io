@@ -20,6 +20,18 @@ To start using __SimplyCSV__, you must first create an account by following thes
 
 -  Once your account is activated, you can log in to SimplyCSV and start using our features.
 
+Here are the steps in image:
+
+- ![MarineGEO circle logo](/img/register.jpeg "register")
+
+- Click on "create an account"
+
+![MarineGEO circle logo](/img/register1.jpeg "MarineGEO logo")
+
+- Fill up the form and agree to the terms and conditions, and then submit.
+
+![MarineGEO circle logo](/img/signUp1.png "fill up form")
+
 >Note: If you encounter any issues during the registration process or have any questions, our customer support team is available to assist you.
 
 ## Technical Aspects:
@@ -36,7 +48,6 @@ To access these tutorials, simply log in to your __SimplyCSV__ account and click
 <!-- Before You are able to use SimplyCSV, you need to first create an account. Only registered users will have full access to all our features.
 Follow the following steps to register:
 - Navigate to the official SimplyCSV URL: www.app.simplycsv.com
-
 
 ![MarineGEO circle logo](/img/register.jpeg "register")
 
